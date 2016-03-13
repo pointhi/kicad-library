@@ -82,6 +82,18 @@ K headphone amplifier digital volume
 F http://www.ti.com/lit/ds/symlink/lm4811.pdf
 $ENDCMP
 #
+$CMP SGTL5000XNAA3
+D Low Power Stereo Codec with Headphone Amplifier, 32 QFN
+K Low Power Stereo Codec Headphone Amplifier
+F https://www.nxp.com/files/analog/doc/data_sheet/SGTL5000.pdf
+$ENDCMP
+#
+$CMP SGTL5000XNLA3
+D Low Power Stereo Codec with Headphone Amplifier, 20 QFN
+K Low Power Stereo Codec Headphone Amplifier
+F https://www.nxp.com/files/analog/doc/data_sheet/SGTL5000.pdf
+$ENDCMP
+#
 $CMP TLV320AIC23BPW
 D 8-96kHz Stero Audio CODEC w/ Headphone Amp, TSSOP28
 K Stero Audio CODEC 96kHz Headphone
