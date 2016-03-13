@@ -337,6 +337,12 @@ D Microcontroller reset monitor
 F microchip/TCM809_reset_controller.pdf
 $ENDCMP
 #
+$CMP W5500
+D Single 10/100Mbps Ethernet Controller, LQFP48
+K Ethernet 10/100Mpbs
+F http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf
+$ENDCMP
+#
 $CMP XTR115U
 D 4-20mA Current Loop Transmitter, SO8
 K 4-20mA Current Loop Transmitter
