@@ -76,6 +76,12 @@ K Simblee ARM Cortex-M0 Bluetooth antenna
 F https://www.simblee.com/Simblee%20RFD77101%20Datasheet%20v1.0.pdf
 $ENDCMP
 #
+$CMP RN2483
+D Low-Power Long Range LoRa Technology Transceiver Module
+K lora lorawan rf transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf
+$ENDCMP
+#
 $CMP RN42
 D Class 2 Bluetooth Module with on-board antenna
 K Bluetooth Module
